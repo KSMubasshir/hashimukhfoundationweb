@@ -1255,7 +1255,7 @@ img{
 
 .header-style-two .header-upper{
 	background-color:#e62802;
-	background-image: linear-gradient(141deg,#9fb8ad 0% ,#e62820 51%,#e62920 75%);
+	background-image: linear-gradient(141deg ,#e62820 0%,#e62920 100%);
 }
 
 .header-style-two .nav-outer{
