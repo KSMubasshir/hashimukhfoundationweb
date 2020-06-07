@@ -180,6 +180,22 @@ img{
 	text-align:center;	
 }
 
+
+figure {
+	border: 1px #cccccc solid;
+	padding: 8px;
+	margin: auto;
+}
+  
+figcaption {
+	background-color: rgb(226, 14, 14);
+	color: white;
+	font-style: bold;
+	padding: 12px;
+	text-align: center;
+	text-size-adjust: 12px;
+}
+
 /*List Style One*/
 
 .list-style-one{
