@@ -1270,8 +1270,8 @@ img{
 }
 
 .header-style-two .header-upper{
-	background-color:#e21c1ce8;
-	background-image: linear-gradient(top, #ff5722 50%, #F39900 50%);;
+	background-color:#fa673a;
+	background-image: linear-gradient(top, #ff5722 0%, #F39900 100%);;
 }
 
 .header-style-two .nav-outer{
