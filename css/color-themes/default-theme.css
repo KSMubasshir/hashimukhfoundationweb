@@ -6,8 +6,6 @@ a,
 .service-block .inner-box h3 a,
 .main-header .info-box .icon-box,
 .event-block .inner-box h3 a:hover,
-.main-menu .navigation > li:hover > a,
-.main-menu .navigation > li.current > a,
 .service-block .inner-box:hover .icon-box,
 .fact-counter .column .inner .counter-title,
 .event-block .inner-box .post-meta li a .icon,
@@ -74,7 +72,7 @@ a,
 .article-section .owl-nav .owl-prev:hover, .article-section .owl-nav .owl-next:hover,
 .events-section .owl-nav .owl-prev:hover, .events-section .owl-nav .owl-next:hover,
 .gallery-section .filters .filter.active, .gallery-section .filters .filter:hover{
-	color:#ff5722;
+	color:#0715da;
 }
 
 /*Background Color*/
@@ -86,7 +84,6 @@ a,
 .btn-style-six:before,
 .header-top .top-right:before,
 .video-box .overlay-box span,
-.main-menu .navigation > li > a:before,
 .main-slider .owl-dots .owl-dot.active,
 .main-slider .owl-dots .owl-dot:hover,
 .causes-block .inner-box .image,
@@ -121,6 +118,16 @@ a,
 
 .header-top-two {
 	background-color: #000000;
+}
+
+.main-menu .navigation > li > a:before{
+	background-color: #ffff00;
+}
+
+.main-menu .navigation > li:hover > a,
+.main-menu .navigation > li.current > a
+{
+	color: #ffff00;
 }
 
 .news-block-four .inner-box .image .read-more:before,

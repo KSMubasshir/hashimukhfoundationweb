@@ -1267,7 +1267,13 @@ img{
 }
 
 .header-style-two .header-upper{
-	background-color:#0d0583;
+	background-color:#ff4D01;
+	background-image: -ms-linear-gradient(top, #ff5722 70%, #f39900 100%);
+	background-image: -moz-linear-gradient(top, #ff5722 70%, #f39900 100%);
+	background-image: -o-linear-gradient(top, #ff5722 70%, #f39900 100%);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(70, #ff5722), color-stop(100, #f39900));
+	background-image: -webkit-linear-gradient(top, #ff5722 70%, #f39900 100%);
+	background-image: linear-gradient(to bottom, #ff5722 70%, #f39900 100%);
 	/* background-image: linear-gradient(top, #ff5722 50%, #fa673a 50%);; */
 }
 
