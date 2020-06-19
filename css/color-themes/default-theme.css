@@ -83,7 +83,6 @@ a,
 .scroll-to-top:hover,
 .btn-style-two:hover,
 .btn-style-four:hover,
-.header-top-two,
 .btn-style-six:before,
 .header-top .top-right:before,
 .video-box .overlay-box span,
@@ -118,6 +117,10 @@ a,
 .main-slider-two .owl-dots .owl-dot.active, .main-slider-two .owl-dots .owl-dot:hover,
 .causes-block .inner-box .lower-content .donate-percentage .donate-bar .bar-inner .bar{
 	background-color:#ff5722;
+}
+
+.header-top-two {
+	background-color: #000000;
 }
 
 .news-block-four .inner-box .image .read-more:before,

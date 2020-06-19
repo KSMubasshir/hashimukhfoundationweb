@@ -140,8 +140,8 @@
 	//Main Slider Carousel
 	if ($('.main-slider-carousel').length) {
 		$('.main-slider-carousel').owlCarousel({
-			animateOut: 'slideInDown',
-    		animateIn: 'slideIn',
+			animateOut: 'fadeOut',
+    		animateIn: 'fadeIn',
 			loop:true,
 			margin:0,
 			nav:true,
